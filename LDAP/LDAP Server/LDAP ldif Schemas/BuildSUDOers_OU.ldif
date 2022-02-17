@@ -1,0 +1,4 @@
+dn: ou=SUDOers,dc=domain,dc=penley,dc=io
+objectclass: organizationalunit
+ou: SUDOers
+description: Kifarunix-demo LDAP SUDO Entry
