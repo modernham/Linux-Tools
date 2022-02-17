@@ -1,4 +1,3 @@
 # Linux-Tools
-Collection of tolls and scripts I use to manage my linux server.
-
-Not much to see here.
+Collection of tools and scripts I use to manage my linux server.
+Probably not useful to anyone else, but they're here.
